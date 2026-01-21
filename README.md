@@ -3,7 +3,7 @@
 I am a Python Developer Intern with strong fundamentals in Python, OOP, and backend development.
 
 ### 🔧 Skills
-- Python, OOP
+- Python, Data Structures, OOP
 - Flask, REST APIs
 - MySQL, MongoDB
 - Web Scraping & Automation

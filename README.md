@@ -1,6 +1,6 @@
 ## Hi, I'm Anjay 👋
 
-I am a Python Developer Intern with strong fundamentals in Python, OOP, and backend development.
+I am a Python Developer with strong fundamentals in Python, OOP, and backend development.
 
 ### 🔧 Skills
 - Python, Data Structures, OOP
@@ -16,7 +16,7 @@ I am a Python Developer Intern with strong fundamentals in Python, OOP, and back
 - **Google Image Scraper** – Automated bulk downloads  
 
 ### 🎯 Goal
-Seeking a paid Python Developer Intern / Backend Intern role to work on real-world projects.
+Seeking an entry-level Python/Flask Developer or Backend Internship role.
 
 📫 Connect with me:
 - LinkedIn: https://linkedin.com/in/anjaysahu

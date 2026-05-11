@@ -6,6 +6,7 @@ I am a Python Developer with strong fundamentals in Python, OOP, and backend dev
 - Python, Data Structures, OOP
 - Flask, REST APIs
 - MySQL, MongoDB
+- AWS
 - Web Scraping & Automation
 - Git & GitHub
 
